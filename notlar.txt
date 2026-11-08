@@ -2,3 +2,4 @@ Merhaba
 Branchten gelen satir
 
 
+Bilgisayardan eklenen satir
